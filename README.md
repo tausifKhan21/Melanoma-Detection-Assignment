@@ -45,7 +45,7 @@ Vascular lesion
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- This project is IIIT assignment.
+- This project if UpGrad's assignment.
 
 
 ## Contact
